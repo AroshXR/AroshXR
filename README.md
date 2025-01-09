@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aroshana
 - 👀 I’m interested in IT & Music
 - 🌱 I’m currently studying at two universities
-- 🎓 [B.Sc.(Maths, Applied Maths, Computer Science) in University of Sri Jayawardenapura] 
+- 🎓 [B.Sc.(Maths, Applied Maths, Computer Science) in University of Sri Jayawardenapura] - Dropped Out(1yr 2sem)
 - 🎓 [B.Sc. in Information Technology in SLIIT]
 - 💞️ I’m looking to collaborate on new software engineering projects.
 - 📫 How to reach me ...
